@@ -1,0 +1,178 @@
+/*#navmain{
+	font-family: font-family: 'Roboto', sans-serif;
+}*/
+
+/*TravelVille*/
+
+html{
+	height: 100%;
+}
+
+.navbar-light .navbar-brand {
+		font-weight: 100;
+		font-size:2.1rem;
+		font-family: 'Roboto', sans-serif;
+		color: white;
+		padding-left:6.5%; 
+		display: inline-block;
+		}
+		
+		/*TravelVille Brand*/
+
+.navbar-light .navbar-brand:hover{
+	color: white;
+}
+
+	/*Nav Items*/
+
+.navbar-light .navbar-nav .nav-link {
+			color: white;
+			font-family: 'Roboto', sans-serif;
+			font-weight: 100;
+			font-size: 1rem;
+			padding: 0 15px;
+			
+
+
+}		
+
+.navbar-light .navbar-nav .nav-link:hover{ color: #fbffc7; }
+
+
+.navbar{
+
+	background-color: #428bff;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+
+	color: white;
+}
+.slider img { width:1200px; height:480px; }
+
+.display-3 {
+color: white;
+padding-top:30px;
+padding-bottom: 30px;
+}
+
+.Search{
+background-color: #428bff;
+}
+
+
+}
+
+button, input {
+
+	width: 700px;
+}
+#marker{
+	font-size: 6rem; color: #428bff;
+	padding-top: 5px;
+	padding-bottom: 4px;
+}
+
+.gallery1 h2{
+	font-weight: 400;
+	padding-bottom: 5px;
+}
+.gallery1 p{
+	padding: 20px;
+}
+#marker1{
+font-size: 6rem; color: #428bff;
+	padding-top: 5px;
+	padding-bottom: 4px;
+
+}
+#marker2{
+
+	font-size: 6rem; color: #428bff;
+	padding-top: 5px;
+	padding-bottom: 4px;
+
+}
+
+.photo-gallery span{
+
+	color: #428bff;
+
+}
+
+.photo-gallery h2{
+	font-weight: 400;
+	text-align: center;
+	padding-top:50px; 
+	padding-bottom:20px; 
+}
+.social-media p{
+	font-weight: 400;
+
+}
+.social-media{
+	text-align: center;
+	background: #428bff;
+	color: white;
+}
+.fab{
+
+	color: white;
+	font-size: 4rem;
+}
+
+.social-media a{
+	padding:0 15px;
+}
+.social-media{ padding:30px 0; }
+
+.social-media a:hover {
+color: rgba(240, 240, 240, 0.2);
+text-decoration: none;
+}
+
+.photos h5{
+font-size: 2.5rem; 
+font-weight: 400; 
+text-align: center;
+
+}
+
+.photos span{
+	color: #428bff;
+}
+.photos h5{
+
+	padding-top: 25px;
+	padding-bottom: 10px;
+}
+.jumbotron{
+	background: #428bff;
+	color: white;
+	padding:30px 50px; 
+	margin-top: 50px;
+}
+.jumbotron span{
+	font-size: 4rem;
+
+
+}
+
+.footer h5{
+
+
+	font-weight: 400;
+}
+.footer{
+	background: #428bff;
+	margin-bottom: 0;
+	color:white;
+	text-align: center;
+	padding: 40px 0;
+
+	 }
+	 .footer h5{
+
+	font-size:2rem; 
+
+	 }
